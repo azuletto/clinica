@@ -31,8 +31,6 @@ public class Tutor extends Pessoa implements Serializable {
         this.cpf = cpf;
     }
     
-    
-
     public String getCpf() {
         return cpf;
     }
